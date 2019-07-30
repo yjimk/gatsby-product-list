@@ -10,11 +10,11 @@ A (very) simple example of using hooks, context API and Gatsby to render a produ
 ## Run Locally
 
 - Clone this repo!
-- `cd` to the project directory
+- `cd` to the cloned project directory
 - Run `yarn` to install Dependencies
 - `yarn develop` to start the development sever
 - View at http://localhost:8000
 
-## View Site!
+## View the Hosted Site
 
-Check out [https://tbd.netlify.com](https://tbd.netlify.com) to see the site in action
+If you'd rather just view the result, check out [https://tbd.netlify.com](https://tbd.netlify.com) to see the site in action

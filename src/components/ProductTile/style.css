@@ -32,6 +32,7 @@
 }
 .product-tile .detail .name {
   font-size: 1em;
+  font-weight: bold;
 }
 .product-tile .detail .price {
   font-size: 2em;
