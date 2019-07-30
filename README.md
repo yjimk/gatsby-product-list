@@ -17,4 +17,4 @@ A (very) simple example of using hooks, context API and Gatsby to render a produ
 
 ## View the Hosted Site
 
-If you'd rather just view the result, check out [https://tbd.netlify.com](https://tbd.netlify.com) to see the site in action
+If you'd rather just view the result, check out [https://trusting-roentgen-293b01.netlify.com/](https://trusting-roentgen-293b01.netlify.com/) to see the site in action
