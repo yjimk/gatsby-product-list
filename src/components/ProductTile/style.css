@@ -56,4 +56,5 @@
 }
 .product-tile .product-image {
   min-height: 310px;
+  text-align: center;
 }
