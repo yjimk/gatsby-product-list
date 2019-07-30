@@ -1,0 +1,7 @@
+.products {
+  max-width: 1200px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  margin: 0 auto 50px;
+  display: flex;
+  flex-wrap: wrap;
+}

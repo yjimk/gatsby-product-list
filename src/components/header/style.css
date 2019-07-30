@@ -1,0 +1,14 @@
+.product-header {
+  background-color: #ddf2f3;
+  display: flex;
+  margin: 40px auto 10px;
+  max-width: 1200px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+}
+.product-header > h1 {
+  margin: 0;
+}
+.product-header > select {
+}
